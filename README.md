@@ -14,7 +14,7 @@ This should install node modules within the server and the client folder. After 
 npm start
 ```
 
-Your app should now be running on <http://localhost:3000>. The Express server should intercept any AJAX requests from the client.
+Your app should now be running on <http://localhost:3000>. You can now search for your book of choice using the search engine and save any book that seems interesting to you! 
 ​
 ## On Heroku:
 
