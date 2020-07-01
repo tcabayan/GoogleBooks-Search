@@ -1,0 +1,8 @@
+.container {
+    background-color: rgba(192, 37, 37, 0.726);
+    border-style: outset;
+    border-width: 3px;
+}
+h2 {
+    text-align: center;
+}

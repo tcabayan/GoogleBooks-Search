@@ -1,0 +1,15 @@
+ .nav-tabs {
+    background-color: tan;
+        padding: 14px 25px;
+        text-decoration: none;
+      }
+    
+.nav-link {
+    color:rgba(192, 37, 37, 0.726);
+    font-weight: bold;
+}
+
+.nav-tabs {
+    background-color: tan;
+
+}
