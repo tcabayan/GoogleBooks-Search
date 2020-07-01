@@ -18,6 +18,6 @@ Your app should now be running on <http://localhost:3000>. You can now search fo
 ​
 ## On Heroku:
 
-You can access the app via this link: 
+You can access the app via this link: https://git.heroku.com/nameless-reaches-02051.git
 
 
